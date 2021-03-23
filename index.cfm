@@ -6,13 +6,11 @@
     <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#fafafa">
     <script src="https://unpkg.com/formeo@1.6.2/dist/formeo.min.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/formeo@1.6.2/dist/formeo.min.css" />
 </head>
 
 <body>
-
     <div id="formeo-editor"></div>
     <script>
         var formeo = new FormeoEditor({
