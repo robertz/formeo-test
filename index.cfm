@@ -11,8 +11,6 @@
 </head>
 
 <body>
-    <div id="formeo-editor"></div>
-    <button id="render">Render</button>
     <div id="formeo-render"></div>
     <script>
 
