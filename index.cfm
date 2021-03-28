@@ -12,11 +12,38 @@
 
 <body>
     <div id="formeo-editor"></div>
+    <button id="render">Render</button>
+    <div id="formeo-render"></div>
     <script>
+
+
+        // Render a saved form
+        let button = document.querySelector('#render');
+        button.addEventListener('click', event => {
+
+            // simulate a database load
+            fetch('/test.json')
+                .then(res => res.json())
+                .then(res => {
+                    var formeoRender = new FormeoRenderer({
+                        renderContainer: '#formeo-render'
+                    })
+                    formeoRender.render(res)
+                });
+        });
+
+
+
+        // Formeo editor
         var formeo = new FormeoEditor({
             editorContainer: '#formeo-editor',
             events: {
+
                 onSave: (evt) => {
+
+                    console.dir(JSON.stringify(formeo.formData))
+
+
                     fetch('/test.cfm', {
                         method: "POST",
                         heaaders: {
@@ -28,10 +55,12 @@
                     .then(res => {
                         console.dir(res);
                     });
+
                 }
             },
             svgSprite: 'https://draggable.github.io/formeo/assets/img/formeo-sprite.svg'
         });
+
     </script>
 </body>
 

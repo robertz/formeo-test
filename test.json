@@ -1,0 +1,402 @@
+{
+    "id": "bd0f362b-4242-436b-9f77-b43e23609afd",
+    "stages": {
+        "909c7ff1-874f-4d61-9cc8-06f156c2aa14": {
+            "children": ["c71f5138-4524-461b-8cee-f88b61aa9b38", "c838338c-d20c-4806-8856-d950d9fc72f7", "e129f97a-1167-43f1-b940-b70fdbb8e0b2", "47520f14-bad6-43a0-8a60-d1a410c86e99", "ef56cb32-ce5b-4274-87f7-b2e1ce742e87", "36fa51f4-d2d6-4e1d-b92d-12d3acac154c", "dd4dac4e-2605-4e75-b1b5-37ca75f85486"],
+            "id": "909c7ff1-874f-4d61-9cc8-06f156c2aa14"
+        }
+    },
+    "rows": {
+        "c71f5138-4524-461b-8cee-f88b61aa9b38": {
+            "config": {
+                "fieldset": false,
+                "legend": "",
+                "inputGroup": false
+            },
+            "children": ["1c9ce3c6-718b-495b-95d2-eb59c1181ba8"],
+            "className": ["formeo-row"],
+            "id": "c71f5138-4524-461b-8cee-f88b61aa9b38"
+        },
+        "c838338c-d20c-4806-8856-d950d9fc72f7": {
+            "config": {
+                "fieldset": false,
+                "legend": "",
+                "inputGroup": false
+            },
+            "children": ["744171d4-97a5-4258-8e1a-8ed746403ced"],
+            "className": ["formeo-row"],
+            "id": "c838338c-d20c-4806-8856-d950d9fc72f7"
+        },
+        "e129f97a-1167-43f1-b940-b70fdbb8e0b2": {
+            "config": {
+                "fieldset": false,
+                "legend": "",
+                "inputGroup": false
+            },
+            "children": ["4ea6103f-6a81-413c-97de-527100b09a78"],
+            "className": ["formeo-row"],
+            "id": "e129f97a-1167-43f1-b940-b70fdbb8e0b2"
+        },
+        "47520f14-bad6-43a0-8a60-d1a410c86e99": {
+            "config": {
+                "fieldset": false,
+                "legend": "",
+                "inputGroup": false
+            },
+            "children": ["d14d2ed9-0a9c-4ac8-bb5a-171f82c6df22"],
+            "className": ["formeo-row"],
+            "id": "47520f14-bad6-43a0-8a60-d1a410c86e99"
+        },
+        "ef56cb32-ce5b-4274-87f7-b2e1ce742e87": {
+            "config": {
+                "fieldset": false,
+                "legend": "",
+                "inputGroup": false
+            },
+            "children": ["40206846-a685-408f-a731-beb9955dbdc0"],
+            "className": ["formeo-row"],
+            "id": "ef56cb32-ce5b-4274-87f7-b2e1ce742e87"
+        },
+        "36fa51f4-d2d6-4e1d-b92d-12d3acac154c": {
+            "config": {
+                "fieldset": false,
+                "legend": "",
+                "inputGroup": false
+            },
+            "children": ["0e901e4f-803f-4d54-b3d9-408b961f8da2"],
+            "className": ["formeo-row"],
+            "id": "36fa51f4-d2d6-4e1d-b92d-12d3acac154c"
+        },
+        "dd4dac4e-2605-4e75-b1b5-37ca75f85486": {
+            "config": {
+                "fieldset": false,
+                "legend": "",
+                "inputGroup": false
+            },
+            "children": ["16c50558-d792-4963-acc5-01c120c4f238"],
+            "className": ["formeo-row"],
+            "id": "dd4dac4e-2605-4e75-b1b5-37ca75f85486"
+        }
+    },
+    "columns": {
+        "1c9ce3c6-718b-495b-95d2-eb59c1181ba8": {
+            "config": {
+                "width": "100%"
+            },
+            "children": ["0074845b-91c3-4fe8-9a4f-26183340df61"],
+            "className": "formeo-column",
+            "id": "1c9ce3c6-718b-495b-95d2-eb59c1181ba8"
+        },
+        "744171d4-97a5-4258-8e1a-8ed746403ced": {
+            "config": {
+                "width": "100%"
+            },
+            "children": ["31208383-c69a-49be-ab29-6af379cee2e9"],
+            "className": "formeo-column",
+            "id": "744171d4-97a5-4258-8e1a-8ed746403ced"
+        },
+        "4ea6103f-6a81-413c-97de-527100b09a78": {
+            "config": {
+                "width": "100%"
+            },
+            "children": ["c50d761d-eb39-48e2-a0bf-54df69005fff"],
+            "className": "formeo-column",
+            "id": "4ea6103f-6a81-413c-97de-527100b09a78"
+        },
+        "d14d2ed9-0a9c-4ac8-bb5a-171f82c6df22": {
+            "config": {
+                "width": "100%"
+            },
+            "children": ["8709b276-48bd-493b-9e0a-107bd0c3a0d3"],
+            "className": "formeo-column",
+            "id": "d14d2ed9-0a9c-4ac8-bb5a-171f82c6df22"
+        },
+        "40206846-a685-408f-a731-beb9955dbdc0": {
+            "config": {
+                "width": "100%"
+            },
+            "children": ["72f4c4a6-0bae-486e-9097-7646c7177216"],
+            "className": "formeo-column",
+            "id": "40206846-a685-408f-a731-beb9955dbdc0"
+        },
+        "0e901e4f-803f-4d54-b3d9-408b961f8da2": {
+            "config": {
+                "width": "100%"
+            },
+            "children": ["cf1ece47-21dd-4d9b-96a8-1021f867582d"],
+            "className": "formeo-column",
+            "id": "0e901e4f-803f-4d54-b3d9-408b961f8da2"
+        },
+        "16c50558-d792-4963-acc5-01c120c4f238": {
+            "config": {
+                "width": "100%"
+            },
+            "children": ["5d982331-bda1-4035-b586-cd1624a281ef"],
+            "className": "formeo-column",
+            "id": "16c50558-d792-4963-acc5-01c120c4f238"
+        }
+    },
+    "fields": {
+        "0074845b-91c3-4fe8-9a4f-26183340df61": {
+            "conditions": [{
+                "if": [{
+                    "source": "",
+                    "sourceProperty": "value",
+                    "comparison": "equals",
+                    "target": "",
+                    "targetProperty": "value"
+                }],
+                "then": [{
+                    "target": "",
+                    "targetProperty": "value",
+                    "assignment": "equals",
+                    "value": ""
+                }]
+            }],
+            "tag": "button",
+            "attrs": {
+                "className": [{
+                    "label": "grouped",
+                    "value": "f-btn-group"
+                }, {
+                    "label": "ungrouped",
+                    "value": "f-field-group"
+                }]
+            },
+            "config": {
+                "label": "Button",
+                "hideLabel": true
+            },
+            "meta": {
+                "group": "common",
+                "icon": "button",
+                "id": "button"
+            },
+            "options": [{
+                "label": "Button",
+                "type": [{
+                    "label": "button",
+                    "type": "button"
+                }, {
+                    "label": "submit",
+                    "type": "submit"
+                }, {
+                    "label": "reset",
+                    "type": "reset"
+                }],
+                "className": [{
+                    "label": "default",
+                    "value": "",
+                    "selected": true
+                }, {
+                    "label": "primary",
+                    "value": "primary"
+                }, {
+                    "label": "danger",
+                    "value": "error"
+                }, {
+                    "label": "success",
+                    "value": "success"
+                }, {
+                    "label": "warning",
+                    "value": "warning"
+                }]
+            }],
+            "id": "0074845b-91c3-4fe8-9a4f-26183340df61"
+        },
+        "31208383-c69a-49be-ab29-6af379cee2e9": {
+            "conditions": [{
+                "if": [{
+                    "source": "",
+                    "sourceProperty": "value",
+                    "comparison": "equals",
+                    "target": "",
+                    "targetProperty": "value"
+                }],
+                "then": [{
+                    "target": "",
+                    "targetProperty": "value",
+                    "assignment": "equals",
+                    "value": ""
+                }]
+            }],
+            "tag": "input",
+            "attrs": {
+                "type": "checkbox",
+                "required": false
+            },
+            "config": {
+                "label": "Checkbox Group",
+                "disabledAttrs": ["type"]
+            },
+            "meta": {
+                "group": "common",
+                "icon": "checkbox",
+                "id": "checkbox"
+            },
+            "options": [{
+                "label": "Checkbox 1",
+                "value": "checkbox-1",
+                "checked": false
+            }],
+            "id": "31208383-c69a-49be-ab29-6af379cee2e9"
+        },
+        "c50d761d-eb39-48e2-a0bf-54df69005fff": {
+            "conditions": [{
+                "if": [{
+                    "source": "",
+                    "sourceProperty": "value",
+                    "comparison": "equals",
+                    "target": "",
+                    "targetProperty": "value"
+                }],
+                "then": [{
+                    "target": "",
+                    "targetProperty": "value",
+                    "assignment": "equals",
+                    "value": ""
+                }]
+            }],
+            "tag": "input",
+            "attrs": {
+                "type": "date",
+                "required": false,
+                "className": ""
+            },
+            "config": {
+                "label": "Date"
+            },
+            "meta": {
+                "group": "common",
+                "icon": "calendar",
+                "id": "date-input"
+            },
+            "id": "c50d761d-eb39-48e2-a0bf-54df69005fff"
+        },
+        "8709b276-48bd-493b-9e0a-107bd0c3a0d3": {
+            "conditions": [{
+                "if": [{
+                    "source": "",
+                    "sourceProperty": "value",
+                    "comparison": "equals",
+                    "target": "",
+                    "targetProperty": "value"
+                }],
+                "then": [{
+                    "target": "",
+                    "targetProperty": "value",
+                    "assignment": "equals",
+                    "value": ""
+                }]
+            }],
+            "tag": "input",
+            "attrs": {
+                "type": "hidden",
+                "value": ""
+            },
+            "config": {
+                "label": "Hidden Input",
+                "hideLabel": true
+            },
+            "meta": {
+                "group": "common",
+                "icon": "hidden",
+                "id": "hidden"
+            },
+            "id": "8709b276-48bd-493b-9e0a-107bd0c3a0d3"
+        },
+        "72f4c4a6-0bae-486e-9097-7646c7177216": {
+            "conditions": [{
+                "if": [{
+                    "source": "",
+                    "sourceProperty": "value",
+                    "comparison": "equals",
+                    "target": "",
+                    "targetProperty": "value"
+                }],
+                "then": [{
+                    "target": "",
+                    "targetProperty": "value",
+                    "assignment": "equals",
+                    "value": ""
+                }]
+            }],
+            "tag": "input",
+            "attrs": {
+                "type": "number",
+                "required": false,
+                "className": ""
+            },
+            "config": {
+                "label": "Number"
+            },
+            "meta": {
+                "group": "common",
+                "icon": "hash",
+                "id": "number"
+            },
+            "id": "72f4c4a6-0bae-486e-9097-7646c7177216"
+        },
+        "cf1ece47-21dd-4d9b-96a8-1021f867582d": {
+            "conditions": [{
+                "if": [{
+                    "source": "",
+                    "sourceProperty": "value",
+                    "comparison": "equals",
+                    "target": "",
+                    "targetProperty": "value"
+                }],
+                "then": [{
+                    "target": "",
+                    "targetProperty": "value",
+                    "assignment": "equals",
+                    "value": ""
+                }]
+            }],
+            "tag": "textarea",
+            "config": {
+                "label": "TextArea"
+            },
+            "meta": {
+                "group": "common",
+                "icon": "textarea",
+                "id": "textarea"
+            },
+            "attrs": {
+                "required": false
+            },
+            "id": "cf1ece47-21dd-4d9b-96a8-1021f867582d"
+        },
+        "5d982331-bda1-4035-b586-cd1624a281ef": {
+            "conditions": [{
+                "if": [{
+                    "source": "",
+                    "sourceProperty": "value",
+                    "comparison": "equals",
+                    "target": "",
+                    "targetProperty": "value"
+                }],
+                "then": [{
+                    "target": "",
+                    "targetProperty": "value",
+                    "assignment": "equals",
+                    "value": ""
+                }]
+            }],
+            "tag": "input",
+            "attrs": {
+                "type": "file",
+                "required": false
+            },
+            "config": {
+                "label": "File Upload"
+            },
+            "meta": {
+                "group": "common",
+                "icon": "upload",
+                "id": "upload"
+            },
+            "id": "5d982331-bda1-4035-b586-cd1624a281ef"
+        }
+    }
+}
